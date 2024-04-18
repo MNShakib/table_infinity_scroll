@@ -1,0 +1,107 @@
+#root {
+  max-width: 100vw;
+  /* margin: 0 auto; */
+  /* padding: 2rem; */
+  text-align: center;
+}
+
+#table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#table tr:hover {background-color: #eb73281c;}
+
+#table td, #table th {
+  border: 1px solid #ddd;
+  vertical-align: top;
+  text-align:left;
+  padding: 8px;
+}
+#table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #15c3d7;
+  color: white;
+}
+
+#clg{
+  text-align: left;
+}
+#clgName{
+  color: rgb(37, 186, 228);
+  font-size: 16px;
+  font-weight: 700;
+}
+#loc{
+  font-size: 11px;
+  color: rgb(160, 157, 157);
+  font-weight: 600;
+  margin: 4px 0;
+}
+#details{
+  border-left: 2px solid #eb7328;
+  padding: 4px;
+  background-color:#e4884f41;
+  width: 70%;
+  margin:15px 0;
+  border-radius: 0 25px 25px 0;
+}
+ #details div{
+  color: #eb7328;
+ }
+ #details span{
+  font-size: 14px;
+  color:rgb(97, 93, 93)
+ }
+ #content{
+  margin: 15px 0;
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: 700;
+ }
+ #orange{
+  color:#f79d66;
+ }
+ #teal{
+  color: rgb(62, 223, 207);
+ }
+ #grey{
+  color: gray;
+ }
+ #fees{
+  text-align: left;
+  vertical-align: top;
+  font-weight: bold;
+ }
+ #be{
+  font-size:12px;
+  margin: 6px 0;
+  color:rgba(128, 128, 128, 0.603);
+ }
+ #ratings{
+  color: gray;
+  font-weight: 500;
+ }
+ #best{
+  font-size: 12px;
+  font-weight: 600;
+  color: #eb7328;
+  background-color: #eb732818;
+  padding: 1px;
+  border-radius: 25px 25px;
+ }
+ #featured{
+  color: white;
+  background-color: red;
+  width: max-content;
+  padding: 2px 25px;
+  font-size: 12px;
+  position: relative;
+  top: -10px;
+  border-radius: 0px 0px 10px 10px;
+ }
+ .sort{
+  cursor: pointer;
+ }

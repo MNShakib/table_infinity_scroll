@@ -1,0 +1,752 @@
+[
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced 2023 CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Delhi, New Delhi",
+            "location": "New Delhi, Delhi NCR",
+            "approved":"",
+            "courses":"B.Tech + M.Tech Mathematics and  Computing",
+            "exam":"JEE-Advanced CutOff: 115",
+            "isFeatured":"false"
+        },
+        "fees":"2,54,650",
+        "placement":{
+            "average":"25,48,000",
+            "highest":"2,98,00,000"
+        },
+        "review_details":{
+            "review":"8.7",
+            "number_of_reviews":"485",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"1st",
+            "out_of":"35",
+            "given_by":"India Today"
+        }
+    },
+    {
+        "college":{
+            "name":"Parul University, Vadodara",
+            "location": "Vadorada, Gujrat",
+            "approved":"AICTE, CDA, PCI, INC, GNC",
+            "courses":"",
+            "exam":"",
+            "isFeatured":"true"
+        },
+        "fees":"1,49,550",
+        "placement":{
+            "average":"4,00,000",
+            "highest":"30,00,000"
+        },
+        "review_details":{
+            "review":"8.1",
+            "number_of_reviews":"102",
+            "best_in":"Infrastructure"
+        },
+        "ranking_details":{
+            "rank":"99th",
+            "out_of":"147",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Delhi, New Delhi",
+            "location": "New Delhi, Delhi NCR",
+            "approved":"",
+            "courses":"B.Tech + M.Tech Mathematics and  Computing",
+            "exam":"JEE-Advanced CutOff: 115",
+            "isFeatured":"false"
+        },
+        "fees":"2,54,650",
+        "placement":{
+            "average":"25,48,000",
+            "highest":"2,98,00,000"
+        },
+        "review_details":{
+            "review":"8.7",
+            "number_of_reviews":"485",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"1st",
+            "out_of":"35",
+            "given_by":"India Today"
+        }
+    },
+    {
+        "college":{
+            "name":"Parul University, Vadodara",
+            "location": "Vadorada, Gujrat",
+            "approved":"AICTE, CDA, PCI, INC, GNC",
+            "courses":"",
+            "exam":"",
+            "isFeatured":"true"
+        },
+        "fees":"1,49,550",
+        "placement":{
+            "average":"4,00,000",
+            "highest":"30,00,000"
+        },
+        "review_details":{
+            "review":"8.1",
+            "number_of_reviews":"102",
+            "best_in":"Infrastructure"
+        },
+        "ranking_details":{
+            "rank":"99th",
+            "out_of":"147",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Delhi, New Delhi",
+            "location": "New Delhi, Delhi NCR",
+            "approved":"",
+            "courses":"B.Tech + M.Tech Mathematics and  Computing",
+            "exam":"JEE-Advanced CutOff: 115",
+            "isFeatured":"false"
+        },
+        "fees":"2,54,650",
+        "placement":{
+            "average":"25,48,000",
+            "highest":"2,98,00,000"
+        },
+        "review_details":{
+            "review":"8.7",
+            "number_of_reviews":"485",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"1st",
+            "out_of":"35",
+            "given_by":"India Today"
+        }
+    },
+    {
+        "college":{
+            "name":"Parul University, Vadodara",
+            "location": "Vadorada, Gujrat",
+            "approved":"AICTE, CDA, PCI, INC, GNC",
+            "courses":"",
+            "exam":"",
+            "isFeatured":"true"
+        },
+        "fees":"1,49,550",
+        "placement":{
+            "average":"4,00,000",
+            "highest":"30,00,000"
+        },
+        "review_details":{
+            "review":"8.1",
+            "number_of_reviews":"102",
+            "best_in":"Infrastructure"
+        },
+        "ranking_details":{
+            "rank":"99th",
+            "out_of":"147",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced 2023 CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Delhi, New Delhi",
+            "location": "New Delhi, Delhi NCR",
+            "approved":"",
+            "courses":"B.Tech + M.Tech Mathematics and  Computing",
+            "exam":"JEE-Advanced CutOff: 115",
+            "isFeatured":"false"
+        },
+        "fees":"2,54,650",
+        "placement":{
+            "average":"25,48,000",
+            "highest":"2,98,00,000"
+        },
+        "review_details":{
+            "review":"8.7",
+            "number_of_reviews":"485",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"1st",
+            "out_of":"35",
+            "given_by":"India Today"
+        }
+    },
+    {
+        "college":{
+            "name":"Parul University, Vadodara",
+            "location": "Vadorada, Gujrat",
+            "approved":"AICTE, CDA, PCI, INC, GNC",
+            "courses":"",
+            "exam":"",
+            "isFeatured":"true"
+        },
+        "fees":"1,49,550",
+        "placement":{
+            "average":"4,00,000",
+            "highest":"30,00,000"
+        },
+        "review_details":{
+            "review":"8.1",
+            "number_of_reviews":"102",
+            "best_in":"Infrastructure"
+        },
+        "ranking_details":{
+            "rank":"99th",
+            "out_of":"147",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Delhi, New Delhi",
+            "location": "New Delhi, Delhi NCR",
+            "approved":"",
+            "courses":"B.Tech + M.Tech Mathematics and  Computing",
+            "exam":"JEE-Advanced CutOff: 115",
+            "isFeatured":"false"
+        },
+        "fees":"2,54,650",
+        "placement":{
+            "average":"25,48,000",
+            "highest":"2,98,00,000"
+        },
+        "review_details":{
+            "review":"8.7",
+            "number_of_reviews":"485",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"1st",
+            "out_of":"35",
+            "given_by":"India Today"
+        }
+    },
+    {
+        "college":{
+            "name":"Parul University, Vadodara",
+            "location": "Vadorada, Gujrat",
+            "approved":"AICTE, CDA, PCI, INC, GNC",
+            "courses":"",
+            "exam":"",
+            "isFeatured":"true"
+        },
+        "fees":"1,49,550",
+        "placement":{
+            "average":"4,00,000",
+            "highest":"30,00,000"
+        },
+        "review_details":{
+            "review":"8.1",
+            "number_of_reviews":"102",
+            "best_in":"Infrastructure"
+        },
+        "ranking_details":{
+            "rank":"99th",
+            "out_of":"147",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Delhi, New Delhi",
+            "location": "New Delhi, Delhi NCR",
+            "approved":"",
+            "courses":"B.Tech + M.Tech Mathematics and  Computing",
+            "exam":"JEE-Advanced CutOff: 115",
+            "isFeatured":"false"
+        },
+        "fees":"2,54,650",
+        "placement":{
+            "average":"25,48,000",
+            "highest":"2,98,00,000"
+        },
+        "review_details":{
+            "review":"8.7",
+            "number_of_reviews":"485",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"1st",
+            "out_of":"35",
+            "given_by":"India Today"
+        }
+    },
+    {
+        "college":{
+            "name":"Parul University, Vadodara",
+            "location": "Vadorada, Gujrat",
+            "approved":"AICTE, CDA, PCI, INC, GNC",
+            "courses":"",
+            "exam":"",
+            "isFeatured":"true"
+        },
+        "fees":"1,49,550",
+        "placement":{
+            "average":"4,00,000",
+            "highest":"30,00,000"
+        },
+        "review_details":{
+            "review":"8.1",
+            "number_of_reviews":"102",
+            "best_in":"Infrastructure"
+        },
+        "ranking_details":{
+            "rank":"99th",
+            "out_of":"147",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced 2023 CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Delhi, New Delhi",
+            "location": "New Delhi, Delhi NCR",
+            "approved":"",
+            "courses":"B.Tech + M.Tech Mathematics and  Computing",
+            "exam":"JEE-Advanced CutOff: 115",
+            "isFeatured":"false"
+        },
+        "fees":"2,54,650",
+        "placement":{
+            "average":"25,48,000",
+            "highest":"2,98,00,000"
+        },
+        "review_details":{
+            "review":"8.7",
+            "number_of_reviews":"485",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"1st",
+            "out_of":"35",
+            "given_by":"India Today"
+        }
+    },
+    {
+        "college":{
+            "name":"Parul University, Vadodara",
+            "location": "Vadorada, Gujrat",
+            "approved":"AICTE, CDA, PCI, INC, GNC",
+            "courses":"",
+            "exam":"",
+            "isFeatured":"true"
+        },
+        "fees":"1,49,550",
+        "placement":{
+            "average":"4,00,000",
+            "highest":"30,00,000"
+        },
+        "review_details":{
+            "review":"8.1",
+            "number_of_reviews":"102",
+            "best_in":"Infrastructure"
+        },
+        "ranking_details":{
+            "rank":"99th",
+            "out_of":"147",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Delhi, New Delhi",
+            "location": "New Delhi, Delhi NCR",
+            "approved":"",
+            "courses":"B.Tech + M.Tech Mathematics and  Computing",
+            "exam":"JEE-Advanced CutOff: 115",
+            "isFeatured":"false"
+        },
+        "fees":"2,54,650",
+        "placement":{
+            "average":"25,48,000",
+            "highest":"2,98,00,000"
+        },
+        "review_details":{
+            "review":"8.7",
+            "number_of_reviews":"485",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"1st",
+            "out_of":"35",
+            "given_by":"India Today"
+        }
+    },
+    {
+        "college":{
+            "name":"Parul University, Vadodara",
+            "location": "Vadorada, Gujrat",
+            "approved":"AICTE, CDA, PCI, INC, GNC",
+            "courses":"",
+            "exam":"",
+            "isFeatured":"true"
+        },
+        "fees":"1,49,550",
+        "placement":{
+            "average":"4,00,000",
+            "highest":"30,00,000"
+        },
+        "review_details":{
+            "review":"8.1",
+            "number_of_reviews":"102",
+            "best_in":"Infrastructure"
+        },
+        "ranking_details":{
+            "rank":"99th",
+            "out_of":"147",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Delhi, New Delhi",
+            "location": "New Delhi, Delhi NCR",
+            "approved":"",
+            "courses":"B.Tech + M.Tech Mathematics and  Computing",
+            "exam":"JEE-Advanced CutOff: 115",
+            "isFeatured":"false"
+        },
+        "fees":"2,54,650",
+        "placement":{
+            "average":"25,48,000",
+            "highest":"2,98,00,000"
+        },
+        "review_details":{
+            "review":"8.7",
+            "number_of_reviews":"485",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"1st",
+            "out_of":"35",
+            "given_by":"India Today"
+        }
+    },
+    {
+        "college":{
+            "name":"Parul University, Vadodara",
+            "location": "Vadorada, Gujrat",
+            "approved":"AICTE, CDA, PCI, INC, GNC",
+            "courses":"",
+            "exam":"",
+            "isFeatured":"true"
+        },
+        "fees":"1,49,550",
+        "placement":{
+            "average":"4,00,000",
+            "highest":"30,00,000"
+        },
+        "review_details":{
+            "review":"8.1",
+            "number_of_reviews":"102",
+            "best_in":"Infrastructure"
+        },
+        "ranking_details":{
+            "rank":"99th",
+            "out_of":"147",
+            "given_by":"The Week"
+        }
+    },
+    {
+        "college":{
+            "name":"IIT Madras, Chennai",
+            "location": "Chennai, Tamil Naidu",
+            "approved":"",
+            "courses":"B.Tech Computer Science Engineering",
+            "exam":"JEE-Advanced CutOff: 144",
+            "isFeatured":"false"
+        },
+        "fees":"2,09,550",
+        "placement":{
+            "average":"21,48,000",
+            "highest":"1,98,00,000"
+        },
+        "review_details":{
+            "review":"8.6",
+            "number_of_reviews":"289",
+            "best_in":"Social Life"
+        },
+        "ranking_details":{
+            "rank":"3rd",
+            "out_of":"131",
+            "given_by":"The Week"
+        }
+    }
+]
